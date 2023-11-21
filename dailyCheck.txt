@@ -35,6 +35,14 @@ ___________________________________
 ___________________________________
 
 
+Show hidden files on linux terminal
+___________________________________ 
+
+ls -a Uses this commands.
+
+The easiest way to show hidden files in Linux is to use the ls command with the -a option via the Linux terminal. The ls command lists the contents of a directory, and the -a option shows all files, including hidden ones.
+
+  
   
      
    
