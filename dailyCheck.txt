@@ -15,7 +15,19 @@ ______________________________________
    and motivational speaker.
 ______________________________________  
  
+ Git First Use 
+ _____________ 
   
+ On branch master 
+ 
+ No commits yet
+ 
+ Untracked files
+    (use "git add <file>...." to iclude in
+     what will be committed... 
+     
+ nothing added to commit but untrcaked files 
+ present (use "git add" to track)...
    
    
    
