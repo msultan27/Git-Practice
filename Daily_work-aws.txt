@@ -1,0 +1,22 @@
+Creating iam user 
+_____________________
+
+step 1
+specify user details
+_____________________
+
+step 2
+Set Permissions
+_____________________
+
+step 3 
+Review and create 
+_____________________
+
+step 4 
+Retrieve password 
+_____________________
+
+
+
+
